@@ -4,6 +4,9 @@
 
 <svelte:head>
     <title>Auby</title>
+    <meta name="og:title" content="Auby" />
+    <meta name="og:description" content="That one Geometry Dash mod collection for iOS" />
+    <meta name="og:image" content="/favicon.png" />
 </svelte:head>
 
 
